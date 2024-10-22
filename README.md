@@ -1,1 +1,1 @@
-# Teor-aCu-nticaObservablesYMedidas
+# TeoriaCuanticaObservablesYMedidas
