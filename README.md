@@ -24,7 +24,7 @@ Ejemplos de uso. El código incluye algunos ejemplos de uso de las funciones ant
 
 ### Contenido
 #### Archivos
-TallerCuanticaBasicaObservablesYMedidas.py: archivo de librería con las funciones correspondientes para realizar cada experimento estudiado y diversos ejercicios para corroborrar el correcto funcionamiento de las funciones.
+TallerCuanticaBasicaObservablesYMedidas.py: archivo de librería con las funciones correspondientes para realizar cada experimento estudiado y diversos ejercicios para corroborrar el correcto funcionamiento de las funciones y la discusión de dos ejercercios.
 
 .gitignore: archivo que excluye lo que no queremos que se suba al repositorio GITHUB.
 
